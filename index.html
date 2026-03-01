@@ -20,7 +20,11 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="./css/style.css">
 
-    <!-- Tailwind Configuration -->
+    <!-- 1. CHARGER TAILWIND EN PREMIER -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+
+    <!-- 2. APPLIQUER LA CONFIGURATION ENSUITE -->
     <script>
         tailwind.config = {
             theme: {
@@ -54,10 +58,6 @@
             }
         }
     </script>
-
-    <!-- Tailwind CSS & Confetti (CDN) -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
 </head>
 
 <body class="font-sans text-gray-800 antialiased overflow-x-hidden">
