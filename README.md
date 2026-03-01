@@ -4,7 +4,7 @@ Une application Single-Page (SPA) conçue pour la simulation et l'estimation de 
 
 Ce projet a été réalisé et présenté en tant que Lead Developer dans le cadre d'un module académique (Communication professionnelle) de **Licence 3 MIAGE**. Il met en avant une architecture front-end moderne croisée avec une véritable logique métier (tunnel de conversion, algorithme de valorisation).
 
-<!-- 🌐 **[Voir la Démo en Ligne](https://lien.com)** -->
+🌐 **[Voir la Démo en Ligne](https://github.com/msq15/gironde-prestige/)**
 
 ---
 
