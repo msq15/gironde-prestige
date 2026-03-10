@@ -55,6 +55,16 @@ Le projet ne nécessite aucune étape de build complexe.
 
 ---
 
+## 📊 Analyse Data : Dashboard Power BI (Données DVF)
+Pour consolider l'algorithme d'estimation, un dashboard interactif a été réalisé sous **Power BI**. Il exploite les données ouvertes DVF (Demandes de Valeurs Foncières) du gouvernement, filtrées sur Bordeaux.
+- **Nettoyage et modélisation :** Power Query & DAX.
+- **Analyse :** Cartographie géolocalisée, évolution du prix au m², répartition Maison/Appartement.
+
+![Aperçu du Dashboard](./powerbi-dashboard/dashboard-preview.png)
+*(Retrouvez le fichier source .pbix et l'export PDF dans le dossier `/powerbi-dashboard`)*
+
+---
+
 ## 👨‍💻 Auteur
 
 **Mohammed Squalli Houssaini**
